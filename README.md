@@ -63,19 +63,7 @@
 [![Janani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Janani-N14&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-<!-- Social Badges: Start -->
-<p align="center">
-<a href="https://linkedin.com/in/jananinatarajan14" align="center">
-  <img alt="LinkedIn Follow" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://leetcode.com/u/jananinatarajan14" align="center">
-  <img alt="LeetCode" align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-<a href="mailto:janani.natarajan.io@gmail.com" align="center">
-  <img alt="Email" align="center" src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
-<!-- Social Badges: End -->
+
 
 <h1 style="margin-top:20px;">Let's build and learn together! </h1>
 
